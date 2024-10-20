@@ -1,0 +1,21 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "main": "conversational_retrieval_chain.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@langchain/google-genai": "^0.1.0",
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.4.5",
+    "langchain": "^0.3.2",
+    "readline": "^1.3.0",
+    "zod": "^3.23.8"
+  }
+}
